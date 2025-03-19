@@ -12,8 +12,12 @@
 
   <ItemGroup>
     <Reference Include="NITGEN.SDK.NBioBSP">
-      <HintPath>obj\NITGEN.SDK.NBioBSP.dll</HintPath>
+      <HintPath>Resources\NITGEN.SDK.NBioBSP.dll</HintPath>
     </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Resources\" />
   </ItemGroup>
 
 </Project>
